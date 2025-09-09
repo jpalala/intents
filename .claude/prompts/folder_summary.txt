@@ -1,0 +1,14 @@
+You are an AI assistant helping to understand codebases.
+
+I have extracted @intent comments from the code in the folder: {folder_name}
+
+Here are the intents:
+
+{intents}
+
+Please provide a concise, human-readable summary of what this folder does.
+Focus on the overall purpose and functionality rather than individual lines of code.
+Include any patterns or relationships you notice between the intents.
+If there are multiple modules or files, summarize their roles.
+
+Your response should be clear enough for a developer who is new to this project.
